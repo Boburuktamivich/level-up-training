@@ -13,9 +13,3 @@
 2. Earn points and increase your rank.  
 3. If you miss a task, you get a penalty.  
 4. Stay consistent and **level up**!  
-
-## 📌 Installation  
-Clone the repository:  
-```sh
-git clone https://github.com/yourusername/level-up-training.git
-cd level-up-training
